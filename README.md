@@ -10,3 +10,5 @@ Counter:
  ● The control signal (commonly denoted as "upordown") determines the direction of the counting process.
  ● When it's set to '1', the counter counts up; when set to '0', the counter counts down.
 
+4bit_synchrouns_up_counter.v
+https://edaplayground.com/x/eQzx
